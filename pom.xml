@@ -31,7 +31,7 @@
         <driverType>$driver</driverType>
         <generateHarReport>false</generateHarReport>
         <jenkinsStyleReports>true</jenkinsStyleReports>
-        <chromeDriverPath>${basedir}\src\main\resources\drivers\chromedriver.exe</chromeDriverPath>
+        <chromeDriverPath>${basedir}/src/main/resources/drivers/chromedriver</chromeDriverPath>
         <ieDriverPath>${basedir}\src\main\resources\drivers\IEDriverServer.exe</ieDriverPath>
         <geckoDriverPath>${basedir}\src\main\resources\drivers\geckodriver.exe</geckoDriverPath>
         <!--<phantomjsDriverPath>${basedir}\src\main\resources\drivers\phantomjs.exe</phantomjsDriverPath>-->
